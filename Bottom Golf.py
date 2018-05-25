@@ -1,6 +1,13 @@
-#Riley
-#Comp prog
-#4/16/2018
+#Bottom Golf v 1.0 last update 5/24/18
+#FULL VERSION FINISHED
+#Added a multiplayer option for two people to play on one screen
+
+#1-2 players, login/out, 2 clubs, 360 directions, barriers, hole, obsicle
+#Tested with both players and functions properly
+#Going to add an "online mode" and a computer mode, which will both be CPU's, look diferent
+#All information is properly displayed
+#No Audio currently added
+#Sometimes the login will give you three attempts on diferent tries of opening the game
 
 ################################### MIC. ##########################################
 
